@@ -33,18 +33,18 @@ export default {
       .then(response => (this.nestableItems = response.data.data));
     //   this.nestableItems = [
     //       {
-    //         id: 0,
-    //         text: 'Andy'
+    //         menu_id: 0,
+    //         menu_name: 'test1'
     //       }, {
-    //         id: 1,
-    //         text: 'Harry',
-    //         children: [{
-    //           id: 2,
-    //           text: 'David'
+    //         menu_id: 1,
+    //         menu_name: 'test2',
+    //         Childs: [{
+    //           menu_id: 2,
+    //           menu_name: 'David'
     //         }]
     //       }, {
-    //         id: 3,
-    //         text: 'Lisa'
+    //         menu_id: 3,
+    //         temenu_namext: 'Lisa',
     //       }
     //     ]
   }
