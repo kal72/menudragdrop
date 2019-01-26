@@ -1,4 +1,14 @@
-# menudragdrop
+# Nested Menu Drag n Drop sample
+
+- vuejs
+- bootstrap
+- Vue-nestable [![NPM Version][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/vue-nestable.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/vue-nestable
+
+
+![](https://raw.githubusercontent.com/kal72/menudragdrop/master/public/ss.png)
 
 ## Project setup
 ```
